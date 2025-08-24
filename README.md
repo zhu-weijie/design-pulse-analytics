@@ -167,9 +167,3 @@ graph TD
     Amundsen_Meta -- "Pulls metadata from" --> Redshift
     Amundsen_Meta -- "Stores graph in" --> Neo4j
 ```
-
-### **Conclusion**
-
-Our **Issue-Driven Architecture-as-Code** process has been a complete success. We have created a comprehensive, production-ready design documented as code.
-
-The final step is not to create a single, unreadable diagram, but to use our complete code to generate a **set of clear, focused views** for different audiences. This is the hallmark of professional architectural communication.
